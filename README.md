@@ -24,8 +24,7 @@ Ce que j'aime le plus en informatique, c'est **comprendre comment les choses fon
 ## 🎮 Quelques projets qui me motivent
 
 - **Volt's Guessing Games :** une application de jeux de devinettes développée avec Vue, TypeScript, PHP et MySQL.
-- **Jeu de stratégie sur grille :** un projet utilisant Vue, TypeScript et PixiJS pour gérer l'affichage, les déplacements et les interactions entre les pièces.
-- **Système de signalisation connecté :** un projet combinant Raspberry Pi, Arduino, Node-RED et MQTT.
+- **VoltMusic :** un projet d'application mobile de lecture musicale, avec l'objectif d'explorer la gestion de playlists et l'intégration d'API musicales.
 
 Ces projets me permettent de progresser autant en programmation qu'en architecture, en logique et en intégration de technologies.
 
